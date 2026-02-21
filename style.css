@@ -1,6 +1,6 @@
 @font-face {
   font-family: Product Sans;
-  src: url(Fonts/Product\ Sans\ Bold.ttf);
+  src: url(Fonts/Fanta.ttf);
 }
 
 * {
@@ -33,7 +33,7 @@ body::-webkit-scrollbar {
   width: 100%;
   height: 10vh;
   z-index: 99;
-  background: red;
+  background: linear-gradient(150deg, blue, green);
 }
 
 .nav-container a {
@@ -144,7 +144,7 @@ body::-webkit-scrollbar {
 }
 .right-side p {
   color: white;
-  font-size: 1vw;
+  font-size: 1.5vw;
   width: 80%;
 }
 

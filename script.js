@@ -29,8 +29,8 @@ tl.to(
   '#laranja',
   {
     width: '15%',
-    top: '160%',
-    left: '85%',
+    top: '100%',
+    left: '80%',
   },
   'orange',
 );
